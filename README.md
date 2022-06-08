@@ -6,4 +6,4 @@ Final Project for Smart Factory Capstone Design
 2. Communication 폴더안의 파일들: IoT센서에서 Edge Device로 데이터를 전송하는 과정으로 서버와 클라이언트 파일를 주석처리된 번호 순서되로 순차적으로 실행함.
 3. Anomaly Detection 폴더안의 파일들: 앞서 생성된 dwt결과 파일을 바탕으로, GAN과 Auto Encoder를 이용하여 이상감지를 한다.
 
-# 모든 파일의 디렉토리는 제 로컬PC를 기반으로 설정되어 있으므로 실행하시는 환경에 맞춰 변경이 반드시 필요합니다.
+*모든 파일의 디렉토리는 제 로컬PC를 기반으로 설정되어 있으므로 실행하시는 환경에 맞춰 변경이 반드시 필요합니다.
